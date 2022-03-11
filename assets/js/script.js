@@ -1,8 +1,8 @@
 // Variáveis
-let n1 = 10
-let n2 = 5
+let name = 'Uener'
+const age = 38
 
-//Array
+/*** Array ***/
 let ingrediente = [
   '2 xícaras (chá) de açúcar',
   '3 xícaras (chá) de farinha de trigo',
@@ -13,7 +13,15 @@ let ingrediente = [
   '100ml de corante azul'
 ]
 
-// // Condicional
+/*** Incremennto
+ *  i++
+ */
+
+for (let i = 0; i <= 10; i++) {
+  console.log(i, 'Executou!')
+}
+
+/*** Condicional ***/
 // if (total > 50) {
 //   console.log('Total foi MAIOR que 50')
 // } else {
