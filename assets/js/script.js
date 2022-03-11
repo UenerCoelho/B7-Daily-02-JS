@@ -18,7 +18,7 @@ let ingrediente = [
  */
 
 for (let i = 0; i <= 10; i++) {
-  console.log(i, 'Executou!')
+  console.log(ingredientes[i])
 }
 
 /*** Condicional ***/
